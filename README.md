@@ -16,10 +16,13 @@ A fast, clean, and optimized full-stack note-taking web app built with React, No
 
 ## 🛠️ Tech Stack
 
-| Frontend    | Backend    | Database      | Libraries & Tools           |
-|-------------|------------|---------------|------------------------------|
-| React       | Node.js    | MongoDB Atlas | React Query, Axios          |
-| React Query | Express.js |               | Postman, Vercel (optional)  |
+| Category     | Technologies                                                     |
+|--------------|------------------------------------------------------------------|
+| Frontend     | React, React Query, Axios, TailwindCSS                          |
+| Backend      | Node.js, Express.js                                             |
+| Database     | MongoDB Atlas                                                   |
+| Dev Tools    | Postman, VS Code, Vercel (for deployment)                       |
+
 
 ---
 
